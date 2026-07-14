@@ -72,7 +72,7 @@ Re-write entire codebase with better and simpler algorithms and lots of things h
 You have 2 options to install this library.
 
 ```bash
-  cp -v native/out /lib /lib64
+  cp -v native/shared/*.so /lib /lib64
   cp -v out/*.jars 'project_folder'
 ```
 
