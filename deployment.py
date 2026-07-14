@@ -84,7 +84,7 @@ def extract_dependency_file(zip_path: str, destination_path: str) -> tuple[bool,
     
 
 def copy_shared_libs() -> tuple[bool, str]:
-    source_dir = Path('.') / "native" / "out"
+    source_dir = Path('.') / "native" / "shared"
     target_dirs = [Path("/lib"), Path("/lib64")]
 
     if not source_dir.exists():
