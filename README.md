@@ -1,5 +1,5 @@
 
-# Terminal
+# 😸 Terminal
 
 A high-performance Java library providing low-level, native control over terminal environments. This library enables sophisticated terminal interactions, robust input handling, and dynamic layout rendering by bridging JVM logic with native system calls via JNI.
 
