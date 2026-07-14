@@ -1,0 +1,7 @@
+com.zen.lib.terminal
+com.zen.lib.terminal.color
+com.zen.lib.terminal.commands
+com.zen.lib.terminal.driver
+com.zen.lib.terminal.event
+com.zen.lib.terminal.input
+com.zen.lib.terminal.table

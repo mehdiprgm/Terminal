@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Terminal-sources">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="Terminal-sources.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
